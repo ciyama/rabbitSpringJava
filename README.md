@@ -1,3 +1,6 @@
 # rabbitSpringJava
-Projeto realiado para aprendizado com Docker-compose "rabbitmq-3management"
-Spring Tools (Sring Boot) e Java.
+
+### Projeto realiado para aprendizado com: 
++ Docker-compose "rabbitmq-3management"
++ Spring Tools (Sring Boot) 
++ Java.
